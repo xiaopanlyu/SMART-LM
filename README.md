@@ -1,2 +1,2 @@
 # SMART-LM
-The code resources for aaai-25
+The code and data will be available when the paper is accepted.
